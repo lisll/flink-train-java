@@ -41,7 +41,6 @@ import java.util.ArrayList;
 public class BatchJob {
 
 	public static void main(String[] args) throws Exception {
-		System.out.println("fdsfadf");
 		ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
 		
 		ArrayList<String> list = new ArrayList<>(3);
