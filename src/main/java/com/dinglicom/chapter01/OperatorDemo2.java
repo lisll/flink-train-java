@@ -64,6 +64,9 @@ public class OperatorDemo2 {
             // 初始化本地变量operator state
             for (Long state : opCntState.get()) {
                 opUserBehaviorCnt += state;
+
+
+
             }
         }
     }
